@@ -1,6 +1,6 @@
 # Computer-Based Digit Span Task (DSB Demo)
 
-This repository contains a lightweight demo version of our **Computer-Based Digit Span Task**, designed as a ready-to-use software tool for experimental and behavioral research.
+This repository contains a lightweight demo version of the **Computer-Based Digit Span Task**, designed as a ready-to-use software tool for experimental and behavioral research.
 
 The task is implemented as a simple browser-based application and can be run without additional setup. It is intended to demonstrate the interface, task logic, and core functionality of the software described in the accompanying manuscript.
 
