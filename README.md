@@ -27,7 +27,7 @@ No installation is required.
 Simply open the hosted demo in your browser:
 
 **Live demo:**  
-https://digitspantask.github.io/DSB_Demo/
+https://digitspantask.github.io/Computer-Based-Digit-Span-Task-Demo/
 
 Alternatively, the task can also be run locally by opening `index.html` in a browser.
 
